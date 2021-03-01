@@ -1,0 +1,11 @@
+@font-face {
+   font-family: 'GothamPro';
+   src: local('GothamProt'), url(../fonts/GothamPro.woff) format('woff');
+ }
+
+ @font-face {
+  font-family: 'FallingSkyBlack';
+  src: local('FallingSkyBlack'), url(../fonts/FallingSkyBlack.otf) format('otf');
+}
+ 
+ 
